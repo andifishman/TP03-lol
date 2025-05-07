@@ -2,8 +2,9 @@
 <p> Artista: @ViewBag.Disco.Artista</p>
 <p> Productor: @ViewBag.Disco.Productor</p>
 <p> Género: @ViewBag.Disco.Genero</p>
+<img src = /@ViewBag.Disco.Foto alt = @ViewBag.Disco.Nombre>
 <ul>
-<p>Canciones</p>
+<h3>Canciones</h3>
 @{  
     foreach(string tema in @ViewBag.Disco.Temas)
     {
@@ -12,5 +13,4 @@
     }
 }
 </ul>
-<img src = /@ViewBag.Disco.Foto alt = @ViewBag.Disco.Nombre>
-<p><a href='@Url.Action("Index","Home")'>Volver a la pagina principal </p>
+<a href='@Url.Action("Index","Home")' class = "button">Volver a la pagina principal</a>

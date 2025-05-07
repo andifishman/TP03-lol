@@ -47,16 +47,30 @@ header{
   text-decoration: underline;
   font-family:fantasy;
 }
-section h2{
+section h1, h2{
   
   text-align: center;
   padding-top: 1%;
-  font-size: 25px;
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-div p{
+section h1{
+  font-size: 40px;
+}
+p, a, li, h3{
   
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button {
+  display: inline-block;
+  background-color: #007bff; 
+  color: white; 
+  padding: 10px 20px;
+  text-align: center; 
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
 }
 div{
   height: auto;
