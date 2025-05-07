@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Music Store";
+}
+<section>
+<h2>-  Bienvenidos al sitio web oficial  -</h2>
+<div>  
+    @{foreach(Disco disco in @ViewBag.Lista.Discos)
+    {
+        <p>Nombre del disco: @disco.Nombre</p>
+        <img src = @disco.Foto alt = @disco.Nombre>
+        <a href='@Url.Action("InfoDisco", "Home", new { ID = disco.ID })'>Ver más info del disco</a>
+    }
+    }
+</div>
+</section>

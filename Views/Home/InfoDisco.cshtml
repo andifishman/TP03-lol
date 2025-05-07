@@ -1,0 +1,16 @@
+<p> Nombre: @ViewBag.Disco.Nombre</p>
+<p> Artista: @ViewBag.Disco.Artista</p>
+<p> Productor: @ViewBag.Disco.Productor</p>
+<p> Género: @ViewBag.Disco.Genero</p>
+<ul>
+<p>Canciones</p>
+@{  
+    foreach(string tema in @ViewBag.Disco.Temas)
+    {
+        
+        <li>@tema</li>
+    }
+}
+</ul>
+<img src = /@ViewBag.Disco.Foto alt = @ViewBag.Disco.Nombre>
+<p><a href='@Url.Action("Index","Home")'>Volver a la pagina principal </p>

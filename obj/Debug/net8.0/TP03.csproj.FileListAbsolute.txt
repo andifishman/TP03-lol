@@ -1,0 +1,58 @@
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\appsettings.Development.json
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\appsettings.json
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\TP03.staticwebassets.runtime.json
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\TP03.exe
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\TP03.deps.json
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\TP03.runtimeconfig.json
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\TP03.dll
+Z:\Programación 2025\TP03\TP03\bin\Debug\net8.0\TP03.pdb
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.AssemblyInfoInputs.cache
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.AssemblyInfo.cs
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.csproj.CoreCompileInputs.cache
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.MvcApplicationPartsAssemblyInfo.cache
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.RazorAssemblyInfo.cache
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.RazorAssemblyInfo.cs
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.sourcelink.json
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets\msbuild.TP03.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets\msbuild.build.TP03.props
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP03.props
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP03.props
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\scopedcss\bundle\TP03.styles.css
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.dll
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\refint\TP03.dll
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.pdb
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\TP03.genruntimeconfig.cache
+Z:\Programación 2025\TP03\TP03\obj\Debug\net8.0\ref\TP03.dll
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\appsettings.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\TP03.staticwebassets.runtime.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\TP03.exe
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\TP03.deps.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\TP03.runtimeconfig.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\TP03.dll
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\bin\Debug\net8.0\TP03.pdb
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.AssemblyInfoInputs.cache
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.AssemblyInfo.cs
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.csproj.CoreCompileInputs.cache
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.RazorAssemblyInfo.cache
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.RazorAssemblyInfo.cs
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets\msbuild.TP03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets\msbuild.build.TP03.props
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP03.props
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP03.props
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\scopedcss\bundle\TP03.styles.css
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.dll
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\refint\TP03.dll
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.pdb
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.genruntimeconfig.cache
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\ref\TP03.dll
+C:\Users\49435429\Downloads\TP03-master\TP03-master\TP03\obj\Debug\net8.0\TP03.sourcelink.json
