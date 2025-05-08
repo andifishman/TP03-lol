@@ -1,107 +1,115 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\21.jpg",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\21.jpg",
       "PackagePath": "staticwebassets\\imagenes\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\Thumbs.db",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\Hotelcalifornia.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Hotelcalifornia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\Thumbs.db",
       "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\abbeyroad.jpg",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\abbeyroad.jpg",
       "PackagePath": "staticwebassets\\imagenes\\abbeyroad.jpg"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\afterhours.jfif",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\afterhours.jfif",
       "PackagePath": "staticwebassets\\imagenes\\afterhours.jfif"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\bday.png",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\backinblack.png",
+      "PackagePath": "staticwebassets\\imagenes\\backinblack.png"
+    },
+    {
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\bday.png",
       "PackagePath": "staticwebassets\\imagenes\\bday.png"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\damn.jfif",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\damn.jfif",
       "PackagePath": "staticwebassets\\imagenes\\damn.jfif"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\legend.jpeg",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\legend.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\legend.jpeg"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\nevermind.jpg",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\nevermind.jpg",
       "PackagePath": "staticwebassets\\imagenes\\nevermind.jpg"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\randomaccessmemories.jfif",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\randomaccessmemories.jfif",
       "PackagePath": "staticwebassets\\imagenes\\randomaccessmemories.jfif"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\thewall.jfif",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\thewall.jfif",
       "PackagePath": "staticwebassets\\imagenes\\thewall.jfif"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\thriller.jpg",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\thriller.jpg",
       "PackagePath": "staticwebassets\\imagenes\\thriller.jpg"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

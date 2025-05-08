@@ -3,14 +3,14 @@
 }
 <section>
 <h1>-  Music store  -</h1>
-<h2>Encuentra tus discos favoritos en un solo lugar</h2>
-<div>  
+<h2>Encuentra tus discos favoritos en un solo lugar</h2> 
     @{foreach(Disco disco in @ViewBag.Lista.Discos)
     {
+        <div> 
         <p>Nombre del disco: @disco.Nombre</p>
         <img src = @disco.Foto alt = @disco.Nombre>
         <a href='@Url.Action("InfoDisco", "Home", new { ID = disco.ID })' class = "button">Ver más info del disco</a>
+        </div> 
     }
     }
-</div>
 </section>

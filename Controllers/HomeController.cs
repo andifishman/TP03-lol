@@ -22,7 +22,7 @@ public class HomeController : Controller
      public IActionResult InfoDisco(int ID)
     {
         ViewData["ID"] = ID;
-        miDisco = miLista.Discos[ID];
+        miDisco = miLista.Discos[ID-1];
         ViewBag.Disco = miDisco;
         return View("InfoDisco");
     }

@@ -36,5 +36,7 @@ public void InicializarLista()
     Discos.Add(new Disco("Legend", "Bob Marley", "Bob Marley", "Reggae", new List<string> { "No Woman, No Cry", "Redemption Song", "Buffalo Soldier" }, 8, "imagenes/legend.jpeg"));
     Discos.Add(new Disco("Damn", "Kendrick Lamar", "Top Dawg Entertainment", "Hip-Hop", new List<string> { "HUMBLE.", "DNA.", "Alright" }, 9, "imagenes/damn.jfif"));
     Discos.Add(new Disco("Random access memories", "Daft Punk", "Daft Punk", "Electronic", new List<string> { "Get Lucky", "One More Time", "Harder, Better, Faster, Stronger" }, 10, "imagenes/randomaccessmemories.jfif"));
+ Discos.Add(new Disco("Back in Black", "AC/DC", "Robert John 'Mutt' Lange", "Hard Rock", new List<string> { "Back in Black", "Hells Bells", "You Shook Me All Night Long" }, 11, "imagenes/backinblack.png"));
+    Discos.Add(new Disco("Hotel California", "Eagles", "Bill Szymczyk", "Rock", new List<string> { "Hotel California", "New Kid in Town", "Life in the Fast Lane" }, 12, "imagenes/Hotelcalifornia.jpg"));
 }
 }

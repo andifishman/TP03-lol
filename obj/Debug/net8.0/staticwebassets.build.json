@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3uIEQcbU6uRQg4qOI0UVP3Ql30dOCKy+J1Jun+zkHlQ=",
+  "Hash": "/sKnJQWFTW6ElX+gsY0r22np/Iy/WYVJ/7AZEUOzgmQ=",
   "Source": "TP03",
   "BasePath": "_content/TP03",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP03\\wwwroot",
       "Source": "TP03",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\css\\site.css",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\favicon.ico",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\21.jpg",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\21.jpg",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/21.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\21.jpg"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\abbeyroad.jpg",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\abbeyroad.jpg",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/abbeyroad.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\abbeyroad.jpg"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\afterhours.jfif",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\afterhours.jfif",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/afterhours.jfif",
       "AssetKind": "All",
@@ -112,10 +112,29 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\afterhours.jfif"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\bday.png",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\backinblack.png",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
+      "BasePath": "_content/TP03",
+      "RelativePath": "imagenes/backinblack.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\backinblack.png"
+    },
+    {
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\bday.png",
+      "SourceId": "TP03",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/bday.png",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\bday.png"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\damn.jfif",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\damn.jfif",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/damn.jfif",
       "AssetKind": "All",
@@ -150,10 +169,29 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\damn.jfif"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\legend.jpeg",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\Hotelcalifornia.jpg",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
+      "BasePath": "_content/TP03",
+      "RelativePath": "imagenes/Hotelcalifornia.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Hotelcalifornia.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\legend.jpeg",
+      "SourceId": "TP03",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/legend.jpeg",
       "AssetKind": "All",
@@ -169,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\legend.jpeg"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\nevermind.jpg",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\nevermind.jpg",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/nevermind.jpg",
       "AssetKind": "All",
@@ -188,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\nevermind.jpg"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\randomaccessmemories.jfif",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\randomaccessmemories.jfif",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/randomaccessmemories.jfif",
       "AssetKind": "All",
@@ -207,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\randomaccessmemories.jfif"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\thewall.jfif",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\thewall.jfif",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/thewall.jfif",
       "AssetKind": "All",
@@ -226,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\thewall.jfif"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\thriller.jpg",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\thriller.jpg",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/thriller.jpg",
       "AssetKind": "All",
@@ -245,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\thriller.jpg"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\imagenes\\Thumbs.db",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\imagenes\\Thumbs.db",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "imagenes/Thumbs.db",
       "AssetKind": "All",
@@ -264,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\js\\site.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -283,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -302,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -321,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -340,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -359,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -416,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -435,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -454,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -473,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -492,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP03",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49435429\\Downloads\\TP03-master\\TP03-master\\TP03\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49439065\\Documents\\TP03-lol\\wwwroot\\",
       "BasePath": "_content/TP03",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
