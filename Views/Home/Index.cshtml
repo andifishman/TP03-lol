@@ -5,9 +5,9 @@
     @{foreach(Disco disco in @ViewBag.Lista.Discos)
     {
         <div> 
-        <p>Nombre del disco: @disco.Nombre</p>
+        <p> @disco.Nombre</p>
         <img src = @disco.Foto alt = @disco.Nombre>
-        <a href='@Url.Action("InfoDisco", "Home", new { ID = disco.ID })' class = "button">Ver más info del disco</a>
+        <a href='@Url.Action("InfoDisco", "Home", new { ID = disco.ID })' class = "button"> Ver más info del disco</a>
         </div> 
     }
     }

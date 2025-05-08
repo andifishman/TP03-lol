@@ -1,8 +1,10 @@
-<p> Nombre: @ViewBag.Disco.Nombre</p>
-<p> Artista: @ViewBag.Disco.Artista</p>
-<p> Productor: @ViewBag.Disco.Productor</p>
-<p> Género: @ViewBag.Disco.Genero</p>
+<h5> Nombre: @ViewBag.Disco.Nombre</h5>
+<h5> Artista: @ViewBag.Disco.Artista</h5>
+<h5> Productor: @ViewBag.Disco.Productor</h5>
+<h5> Género: @ViewBag.Disco.Genero</h5>
+<section>
 <img src = /@ViewBag.Disco.Foto alt = @ViewBag.Disco.Nombre class="pordisco">
+</section>
 <ul>
 <h3>Canciones</h3>
 @{  
@@ -13,4 +15,6 @@
     }
 }
 </ul>
-<a href='@Url.Action("Index","Home")' class = "button">Volver a la pagina principal</a>
+<section>
+<a href='@Url.Action("Index","Home")' class = "boton">Volver a la pagina principal</a>
+</section>
